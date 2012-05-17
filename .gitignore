@@ -1,0 +1,16 @@
+*ReSharper*
+TestResults
+*.sln.cache
+*.suo
+*.user
+*.xap
+*.snk
+*.crt
+*.key
+*.pfx
+bin
+Bin
+obj
+buildlog.txt
+build
+package
